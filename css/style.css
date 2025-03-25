@@ -75,7 +75,7 @@ table {
 /*  Desig tokes  */
  :root {
     --headercolor: #303030;
-    --informationcontent: #F9F9F9;
+    --informationcontent: #f5f5f5;
     --contentcolor:  #e6dada;
     --footercolor: #303030;
     /* tipografi colors */
@@ -87,8 +87,105 @@ table {
     --contenttext: #000000;
     --footertitle: #ffffff;
     /* tipografi end\footer starter */
-    --formularibgcolor: #ffffff;
+    --inputColor: #ffffff;
     --bottomcolor: #C07212;
     --bottomtextcolor: #ffffff;
  }
  /* Conteúdo */
+ /* header */
+header {
+   background: var(--headercolor);
+   padding: 200px 0 150px 60px;
+}
+h1 {
+   font: 600 60px/120px Inter;
+   color: var(--headertitle);
+   text-align: left;
+}
+header p {
+   font-size: 20px;
+   color: var(--headertexte);
+   text-align: left;
+   font-weight: 200;
+}
+/* Aqui começa o menu informacional */
+#informationalmenu {
+   padding: 90px 0 60px 0;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   background-color: var(--informationcontent);
+}
+
+.content {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   font-size: 20px;
+   color: var(--informatiotext);
+}  
+.content strong {
+   font: 600 40px/40px Inter;
+   color: var(--informationmetrics);
+}
+/* Aqui começa o conteudo */
+main {
+   display: flex;
+   justify-content: space-evenly;
+   padding: 80px 0;
+}
+.content {
+   margin: auto 0;
+}
+.content h3 {
+   font: 500 40px Inter;
+   margin-bottom: 50px;
+}
+.content p {
+   font: 300 20px Inter;
+}
+/* Aqui começa o footer */
+footer {
+   padding: 90px 0;
+   background-color: var(--footercolor);
+   border: 1px solid transparent;
+   text-align: center;
+}
+footer h3 {
+   font: 700 30px Inter;
+   text-align: center;
+   color: var(--footertitle);
+}
+footer form {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 40px 0 100px 0;
+}
+footer form input {
+   width: 350px;
+   height: 50px;
+   border-radius: 15px;
+   padding-left: 20px;
+   background-color: var(--inputColor);
+}
+#Nome {
+   margin-bottom: 50px;
+}
+footer button {
+   width: 250px;
+   height: 70px;
+   border: 1px solid transparent;
+   background-color: var(--bottomcolor);
+   color: var(--bottomtextcolor);
+   border-radius: 9px;
+   text-align: center;
+   font: 600 30px Inter;
+   cursor: pointer;
+}
+/* efeitos do botão */
+button:hover {
+   transform: translateY(-10px);
+   transition-duration: 0.6s;
+   box-shadow: 5px 6px 10px rgba(0, 0 , 0, 0.5);
+}
