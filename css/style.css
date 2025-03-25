@@ -187,5 +187,5 @@ footer button {
 button:hover {
    transform: translateY(-10px);
    transition-duration: 0.6s;
-   box-shadow: 5px 6px 10px rgba(0, 0 , 0, 0.5);
+   box-shadow: 5px 6px 10px rgba(0, 0, 0, 0.308);
 }
