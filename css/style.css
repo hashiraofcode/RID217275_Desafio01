@@ -1,0 +1,94 @@
+html,
+body,
+div,
+span,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+address,
+em,
+img,
+ins, 
+strong, 
+b,
+u,
+i,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,  
+tbody,
+tfoot,
+thead,
+tr,
+th,
+main,
+td,
+article,
+aside, 
+figure,
+figcaption,
+footer,
+header,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+	font: 20px Inter;
+	color: #333;
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+
+/*  Desig tokes  */
+ :root {
+    --headercolor: #303030;
+    --informationcontent: #F9F9F9;
+    --contentcolor:  #e6dada;
+    --footercolor: #303030;
+    /* tipografi colors */
+    --headertitle: #ffffff;
+    --headertexte: #ffffff;
+    --informationmetrics: #000000;
+    --informatiotext: #000000;
+    --contenttitle: #000000;
+    --contenttext: #000000;
+    --footertitle: #ffffff;
+    /* tipografi end\footer starter */
+    --formularibgcolor: #ffffff;
+    --bottomcolor: #C07212;
+    --bottomtextcolor: #ffffff;
+ }
+ /* Conteúdo */
