@@ -5,7 +5,7 @@
 ---
 ## 📚 Descrição 
 > Foi Proposto neste desafio a Seguinte Case:
->>Estou em um processo seletivo para participar do time de desenvolvimento de uma empresa de tecnologia, então o recrutador propõe que os participantes desenvolvam uma Landing Page como portifólio para uma empresa de Arquitetura. Ele então nos fornece o design prototipado no figma para que possamos desenvolver a página. E além de desenvolver o Front da página a mesma também deveria estar conectada (e funcional) ao **Sheet Monkey** que é um serviço de integração de informações que coleta os dados de um form no documento HTML e os manda diretamente para uma planilha no google sheets. E também, é claro, o mesmo devera ser hospedado e neste caso será utilizado o serviço de hospedagem da **Netlify** que é um serviço de hospedagem gratuito.
+>>Estou em um processo seletivo para participar da equipe  de desenvolvimento de uma empresa de tecnologia, então o recrutador propõe que os participantes desenvolvam uma Landing Page como portifólio para uma empresa de Arquitetura. Ele então nos fornece o design prototipado no figma para que possamos desenvolver a página. E além de desenvolver o Front da página a mesma também deveria estar conectada (e funcional) ao **Sheet Monkey** que é um serviço de integração de informações que coleta os dados de um form no documento HTML e os manda diretamente para uma planilha no google sheets. E também, é claro, o mesmo devera ser hospedado e neste caso será utilizado o serviço de hospedagem da **Netlify** que é um serviço de hospedagem gratuito.
 ---
 ## 📈 Critérios de Avaliação
 > Os seguinte critérios foram popostos para o desafio:
