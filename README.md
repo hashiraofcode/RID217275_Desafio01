@@ -31,7 +31,8 @@ ___
 ___
 ## 🔗 **URL'S**
 
-🌐 **Link da Página:** 
-<br>
-<img src="https://img.icons8.com/?size=100&id=ezUTJdV6xvqx&format=png&color=000000" width="25px" height="25px"> **Link da Planilha do Google Sheets:**
+> [![Link da Página]<img src= "https://img.icons8.com/?size=100&id=DuuipuI9mFC8&format=png&color=000000" width="30" heigth="30"/> **Link da Página**](https://constructorproject.netlify.app/)
 
+<br>
+
+> [![botão Da Planilha] <img src=ReadmeImages/iconPlan.svg width="30" heigth="30"/> **Link para a Planilha**](https://docs.google.com/spreadsheets/d/1Ra4yfwpM94RpaFQQ1tzOK7qr2KskCC70ONmauUZEjXI/edit?gid=0#gid=0)
