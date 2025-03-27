@@ -9,9 +9,9 @@
 ---
 ## 📈 Critérios de Avaliação
 > Os seguinte critérios foram popostos para o desafio:
->> 🟢 Design semelhante ao Figma;
->> 🟢 Elementos com margin e espaçamentos semelhante ao Figma;
->> 🟢 Formulário inserindo dados ao Sheets;
+>> 🟢 Design semelhante ao Figma; <br>
+>> 🟢 Elementos com margin e espaçamentos semelhante ao Figma; <br>
+>> 🟢 Formulário inserindo dados ao Sheets; <br>
 >> 🟢 Deploy na Netlify;
 ---
 ## 📸 Imagens do Projeto
