@@ -149,7 +149,6 @@ footer {
    padding: 90px 0;
    background-color: var(--footercolor);
    border: 1px solid transparent;
-   text-align: center;
 }
 footer h3 {
    font: 700 30px Inter;
@@ -161,6 +160,7 @@ footer form {
    flex-direction: column;
    align-items: center;
    margin: 40px 0 100px 0;
+   text-align: center;
 }
 footer form input {
    width: 350px;
@@ -168,10 +168,9 @@ footer form input {
    border-radius: 15px;
    padding-left: 20px;
    background-color: var(--inputColor);
+   border: 1px solid transparent;
 }
-#Nome {
-   margin-bottom: 50px;
-}
+
 footer button {
    width: 250px;
    height: 70px;

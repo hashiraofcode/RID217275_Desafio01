@@ -14,6 +14,8 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
         <title>Desafio 01</title>
+        <!-- Script da página -->
+         <script src="Javascript/index.js" defer></script>
     </head>
     <body>
         <div id="container">
@@ -55,13 +57,15 @@
                 <h3>
                     Conheça mais sobre nossos Serviços
                 </h3>
-                <form action="">
-                <input type="text" placeholder="Nome" id="Nome">
-                <input type="text" placeholder="Email">
+                <form action="https://api.sheetmonkey.io/form/pTM9dLxJ593xoz1xziZZB4" method="post">
+
+                    <input  type="text" placeholder="Nome" name="Nome" required>
+                    <br><br><br>
+                    <input type="email" placeholder="E-mail" name="E-mail" required>
+                    <input type="hidden" name="Data de Cadastro" value="x-sheetmonkey-current-date-time" /> <br><br><br><br>
+                    <button type="submit">Fale conosco!</button>
                 </form>
-                <button type="submit">
-                    Fale conosco
-                </button>
+                
             </footer>
         </div>
     </body>
