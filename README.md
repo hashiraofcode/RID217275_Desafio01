@@ -26,8 +26,8 @@ ___
  <img src=ReadmeImages/ProjImg3.png align="center"> 
 ___
  ### 📌 Resultado integração com o **Sheet Monkey**
- <img src=ReadmeImages/Integration1.png align="center"> <br>
- <img src=ReadmeImages/Integration2.png align="center"> <br> 
+ <img src=ReadmeImages/Integration1.png align="center" width="1374" heigth="771"> <br>
+ <img src=ReadmeImages/Integration2.png align="center" width="1374" heigth="771"> <br> 
 ___
 ## 🔗 **URL'S**
 
